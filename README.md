@@ -1,18 +1,18 @@
 ## Hello, I'm Yuka Moribe 👋
 
-<img alt="Cover Photo" src="https://app-project-assets.s3.amazonaws.com/gh_image.jpg" width="350" />
+<img align="right" alt="Cover Photo" src="https://app-project-assets.s3.amazonaws.com/gh_image.jpg" width="400" />
 
 ### I'm a passionate fullstack web developer with curious mind.
 
-- 🔭 I'm currently practicing DSA and JavaScript.
-- 🌱 I'm currently learning Jest / React Testing Library.
-- 💻 I’m looking to collaborate on any exciting open source project.
-- 💬 Ask me about anything!
-- ⚡ Fun fact: I'm a native speaker in Japanese as well.
+- 🔭&nbsp; I'm currently practicing DSA and JavaScript.
+- 🌱&nbsp; I'm currently learning Jest / React Testing Library.
+- 💻 &nbsp; I’m looking to collaborate on any exciting open source project.
+- 💬 &nbsp; Ask me about anything!
+- ⚡&nbsp; Fun fact: I'm a native speaker in Japanese as well.
 
-📫 Please feel free to reach me via LinkedIn!
-[Portfolio]: https://yukamoribe.com/
-[LinkedIn]: https://www.linkedin.com/in/yuka-moribe-485962157/
+📫 &nbsp; Please feel free to reach me via LinkedIn!
+[Portfolio]:(https://yukamoribe.com/) <br>
+[LinkedIn]:(https://www.linkedin.com/in/yuka-moribe-485962157/)
 
 ### Languages and Tools:
 
