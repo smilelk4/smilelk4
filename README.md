@@ -11,18 +11,20 @@
 - ⚡&nbsp; Fun fact: I love to travel.
 
 📫 &nbsp; Please feel free to reach me via LinkedIn. <br>
-[![Linkedin: yukamoribe](https://img.shields.io/badge/-smilelk4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuka-moribe-485962157/)](https://www.linkedin.com/in/yuka-moribe-485962157/)<br>
+[![Linkedin: yukamoribe](https://img.shields.io/badge/-yukamoribe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuka-moribe-485962157/)](https://www.linkedin.com/in/yuka-moribe-485962157/)
 [![GitHub smilelk4](https://img.shields.io/github/followers/smilelk4?label=follow&style=social)](https://github.com/smilelk4)
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=outlook&logoColor=white)](yukamoribe@outlook.com)
 
 Check out my portfolio [here](https://yukamoribe.com/).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smilelk4&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smilelk4)
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
