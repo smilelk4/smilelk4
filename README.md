@@ -13,12 +13,11 @@
 📫 &nbsp; Please feel free to reach me via LinkedIn. <br>
 [![Linkedin: yukamoribe](https://img.shields.io/badge/-yukamoribe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuka-moribe-485962157/)](https://www.linkedin.com/in/yuka-moribe-485962157/)
 [![GitHub smilelk4](https://img.shields.io/github/followers/smilelk4?label=follow&style=social)](https://github.com/smilelk4)
-[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=outlook&logoColor=white)](yukamoribe@outlook.com)
+<a href="mailto:yukamoribe@outlook.com">[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=outlook&logoColor=white)]</a>
 
 Check out my portfolio [here](https://yukamoribe.com/).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smilelk4&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smilelk4)
 
 ### Languages and Tools:
 
