@@ -10,7 +10,7 @@
 - 💬 &nbsp; Ask me about anything!
 - ⚡&nbsp; Fun fact: I love to travel.
 
-📫 &nbsp; Please feel free to reach me via LinkedIn. <br>
+📫 &nbsp; Please feel free to contact me.<br>
 [![Linkedin: yukamoribe](https://img.shields.io/badge/-yukamoribe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuka-moribe-485962157/)](https://www.linkedin.com/in/yuka-moribe-485962157/)
 <a href="mailto:yukamoribe@gmail.com">![E-Mail](https://img.shields.io/badge/email-2a8?style=flat-square&logo=gmail&logoColor=white)</a>
 [![GitHub smilelk4](https://img.shields.io/github/followers/smilelk4?label=follow&style=social)](https://github.com/smilelk4)
