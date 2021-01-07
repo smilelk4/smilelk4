@@ -5,7 +5,7 @@
 ### I'm a passionate fullstack web developer with a massive curious mind.
 
 - 🔭&nbsp; I'm currently practicing DSA.
-- 🌱&nbsp; I'm currently learning TypeScript and testing libraries like Jest.
+- 🌱&nbsp; I'm currently focusing on polishing up projects, but the plan is to soon start learning TypeScript and testing libraries like Jest.
 - 💻 &nbsp; I’m looking to collaborate on any exciting open source project.
 - 💬 &nbsp; Ask me about anything!
 - ⚡&nbsp; Fun fact: I love to travel.
