@@ -17,7 +17,11 @@
 
 Check out my portfolio [here](https://yukamoribe.com/).
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smilelk4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smilelk4&no-bg=true&no-frame=true&rank=SECRET,S,AAA,AA,A" alt="smilelk4" /></a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smilelk4&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="smilelk4" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smilelk4&theme=tokyonight&hide_border=true" alt="smilelk4" /></p>
 
 ### Languages and Tools:
 
