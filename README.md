@@ -17,11 +17,11 @@
 
 Check out my portfolio [here](https://yukamoribe.com/).
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smilelk4&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="smilelk4" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smilelk4&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="smilelk4" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smilelk4&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="smilelk4" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smilelk4&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="smilelk4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smilelk4&theme=tokyonight&hide_border=true" alt="smilelk4" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smilelk4&theme=tokyonight&hide_border=true" alt="smilelk4" /></p>
 
 ### Languages and Tools:
 
