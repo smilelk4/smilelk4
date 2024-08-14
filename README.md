@@ -2,13 +2,14 @@
 
 <img align="right" alt="Cover Photo" src="https://app-project-assets.s3.amazonaws.com/gh_image.jpg" width="400" />
 
-### I'm a passionate fullstack web developer with a massive curious mind.
+### I'm a fullstack developer who slays bugs and builds with love 🧸
 
-- 🔭&nbsp; I'm currently practicing DSA.
-- 🌱&nbsp; I'm currently focusing on polishing up projects, but the plan is to soon start learning TypeScript and testing libraries like Jest.
-- 💻 &nbsp; I’m looking to collaborate on any exciting open source project.
-- 💬 &nbsp; Ask me about anything!
-- ⚡&nbsp; Fun fact: I love to travel.
+- 💻&nbsp; Web developer – both frontend and backend are my field
+- 👀&nbsp; Keen eyes for design
+- 🧪&nbsp; Experience writing tests – all unit, integration, and E2E
+- 🌐&nbsp; Remotely working since 2020
+- 👾&nbsp; A noob game developer
+- 😃&nbsp; Likes to stick head into new things here and there
 
 📫 &nbsp; Please feel free to contact me.<br>
 [![Linkedin: yukamoribe](https://img.shields.io/badge/-yukamoribe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuka-moribe-485962157/)](https://www.linkedin.com/in/yuka-moribe-485962157/)
@@ -16,12 +17,6 @@
 [![GitHub smilelk4](https://img.shields.io/github/followers/smilelk4?label=follow&style=social)](https://github.com/smilelk4)
 
 Check out my portfolio [here](https://yukamoribe.com/).
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=smilelk4&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="smilelk4" /> </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smilelk4&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="smilelk4" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smilelk4&theme=tokyonight&hide_border=true" alt="smilelk4" /></p>
 
 ### Languages and Tools:
 
@@ -51,5 +46,4 @@ Check out my portfolio [here](https://yukamoribe.com/).
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 </p>
