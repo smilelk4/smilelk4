@@ -4,9 +4,9 @@
 
 ### I'm a fullstack developer who slays bugs and builds with love 🧸
 
-- 💻&nbsp; Professional web developer – both frontend and backend are my field
-- 👀&nbsp; Keen eyes for design
-- 🧪&nbsp; Experience writing tests – all unit, integration, and E2E
+- 💻&nbsp; Professional fullstack web developer
+- 👀&nbsp; Keen eyes on design
+- 🧪&nbsp; Tests – Unit, integration, and E2E
 - 🌐&nbsp; Remotely working since 2020
 - 👾&nbsp; A noob game developer
 - 😃&nbsp; Likes to stick head into new things here and there
